@@ -19,14 +19,22 @@ The repository is organized as follows:
 Our group#24:
 
 * Giorgio Bertone
+  
   Matricola: 2112729
+  
   bertone.2112729@studenti.uniroma1.it
 * Begaiym Satarova
+  
   Matricola: 2056861
+  
   satarova.2056861@studenti.uniroma1.it
 * Alba Perna Lotina
+  
   Matricola: 2116863
+  
   pernalotina.2116863@studenti.uniroma1.it
 * Deniz Yilmaz
+  
   Matricola: 2108621
+  
   denizyilmazz@yahoo.com 
