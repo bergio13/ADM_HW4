@@ -1,10 +1,6 @@
 # ADM_HW4
 
 ## Group 24
-
-# ADM_HW4
-
-## Group 24
 # Homework 4 - Recommendation systems and clustering everywhere
 
 
