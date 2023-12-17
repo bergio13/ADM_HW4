@@ -15,7 +15,7 @@ The repository is organized as follows:
 
 2. _`CommandLine.sh`_: 
 	> It is a bash script that answers CLQ question.
-    >Screenshots are in the notebook. 
+    >Screenshots are in the Notebook file. 
        
 
 Our group#24:
